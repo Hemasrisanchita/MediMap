@@ -45,5 +45,3 @@ LifeLine Locator provides a centralized platform to:
 - Data Simulation
 - Project Coordination
 
-## 🌐 Live Demo
-(Add your GitHub Pages / Vercel link here)
